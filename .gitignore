@@ -1,2 +1,10 @@
 # Node
 node_modules
+
+dist
+
+# JetBrains
+.idea
+
+# Compiled JS files
+src/**/*.js
